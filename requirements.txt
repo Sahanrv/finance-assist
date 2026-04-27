@@ -1,0 +1,12 @@
+anthropic
+beautifulsoup4
+google-genai
+gradio
+ipykernel
+ipython
+langchain-openai
+litellm
+openai
+python-dotenv
+requests
+tiktoken
